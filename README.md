@@ -7,18 +7,25 @@
 
 ### 💻 About Me
 
-I'm a versatile full-stack developer with experience building **robust, scalable, and secure systems** across both desktop and web platforms.
+I'm a versatile full-stack developer with experience building **robust, scalable, and secure systems** across desktop, web, and mobile platforms.
 
-- 🔧 Expert in **C# (WinForms, ASP.NET)** and **modern JavaScript/TypeScript stacks**
-- 🧠 Passionate IT Instructor for **Web Development**, **Mobile**, and **CompTIA A+/Network+**
-- 🏥 Built the **HERARI Neurology System**, an enterprise-grade clinic & hospital management system
-- 🧪 Creator of **background evaluation systems** for silent skill tracking & project-based assessments
-- 🧱 Developed dozens of real-world apps including:
-  - ✅ Task Managers (To-Do)
-  - ✅ Electronic Asset Management Systems
-  - ✅ Finance Dashboards & HR Panels
-  - ✅ Calculators, Timers, and Educational Tools
-  - ✅ Landing Pages, Portfolios, and Admin UIs
+- 🔧 Expert in **C# (WinForms, ASP.NET)** and **JavaScript/TypeScript**
+- 🧠 Instructor for **Web Dev**, **Mobile**, and **CompTIA A+/N+**
+- 🏥 Built the **HERARI Neurology System** – an enterprise-level hospital/clinic suite
+- 🧪 Creator of **background evaluation systems** for silent skill tracking
+- 🛠️ Built dozens of real-world projects:
+  - ✅ To-Do apps, calculators, academic tools
+  - ✅ Landing pages, portfolios, admin dashboards
+  - ✅ Electronic asset & finance systems
+  - ✅ Secure login/session systems with encryption
+
+---
+
+### 🧠 Currently Learning
+
+![Security+](https://img.shields.io/badge/Studying-CompTIA%20Security%2B-critical)
+![Linux+](https://img.shields.io/badge/Studying-Linux%2B-lightgrey)
+![Ethical Hacking](https://img.shields.io/badge/Cybersecurity-CEH%20Track-important)
 
 ---
 
@@ -31,40 +38,68 @@ I'm a versatile full-stack developer with experience building **robust, scalable
 | 🔧 Backend | `PHP` `Node.js` `Express.js` |
 | 📦 Database | `MySQL` `MSSQL` `Supabase` `Firebase` `Appwrite` |
 | 📱 Mobile | `Flutter` `Dart` |
-| 🔐 Infra | `Secure Token Systems` `Session Management` `Local/Closed Network Design` |
-| 🧠 Teaching | `CompTIA A+` `Network+` `Security Basics` |
+| 🔐 Infra | `Secure Tokens` `Session Management` `VPN Architecture` |
+| 📘 Teaching | `CompTIA A+` `Network+` `Cybersecurity Basics` |
 
 ---
 
-### 🌟 Highlight Projects
+### 🚧 Currently Working On
+
+- 🔐 Secure site-to-site network for multi-branch clinics
+- 🧾 Auto-encrypted token login/session architecture
+- 📘 A+ Certification Book (with real-world examples and diagrams)
+- 🏗️ HERARI Flutter App
+- 🔬 Background skill assessments for students
+
+**Status Badges:**
+
+![Status](https://img.shields.io/badge/Status-Active%20Development-success)
+![Clinic Infra](https://img.shields.io/badge/Infra-Site--to--Site%20Testing-orange)
+![Mobile App](https://img.shields.io/badge/Mobile-HERARI%20Flutter%20App-purple)
+![Security](https://img.shields.io/badge/Security-Secure%20Session%20Tokens-informational)
+
+---
+
+### 🌟 Featured Projects
 
 #### 🏥 HERARI Neurology System
-Enterprise software for managing multiple hospital branches:
-- Secure login system with token encryption & auto-login
-- Crystal Reports medical file generation
-- Local network infrastructure for multi-site clinics
+> Multi-module system for hospitals and clinics  
+> ✔ Token-based login | ✔ Crystal Reports | ✔ Secure local network support
 
 #### 🧠 Developer Evaluation System
-Silent, background skill tracking and real-world coding simulation platform:
-- Debugging challenges, hidden easter eggs, live project reviews
-- Evaluation metrics around code quality, autonomy, and creativity
+> Background performance evaluation using hidden real-world scenarios  
+> ✔ Debugging trials | ✔ Silent metric tracking | ✔ Live review ready
 
-#### 💼 Utility + Web Tools
-- 🧾 To-Do Applications (C# / React)
-- 📚 Academic Tools (Timer, Calculator, GPA calculator)
-- 🖥️ Electronic Asset Management System
-- 💸 Finance & HR Dashboards (Custom SQL + Role-based auth)
-- 📄 Portfolio websites & landing pages (Next.js + Tailwind CSS)
+#### 🧾 Utility/Web Tools
+> ✔ To-Do app (React, C#)  
+> ✔ Budget dashboards (SQL + Role-based Auth)  
+> ✔ Academic calculator & timers  
+> ✔ Portfolios and landing pages with Tailwind + Next.js
 
 ---
 
-### 🚀 Currently Working On
+### 🏷️ Project Badges
 
-- 🔐 Site-to-Site Network for secure multi-clinic operations
-- 📘 A+ Certification Book (for students, full of diagrams & real-world context)
-- 📦 Appwrite/Supabase backends for scalable cloud-connected applications
-- 🎓 Weekly dev challenges & background evals for real-world growth
-- ⏳ Cybersecurity roadmap for 2026 (Security+, Linux+, CEH)
+![HERARI System](https://img.shields.io/badge/HERARI--Enterprise-Clinic%20System-blue)
+![Crystal Reports](https://img.shields.io/badge/Crystal--Reports-PDF--Ready--Reports-lightgrey)
+![To-Do App](https://img.shields.io/badge/Productivity-To--Do%20App-green)
+![Network Infra](https://img.shields.io/badge/Site--to--Site--VPN-Network%20Design-orange)
+![Finance Dashboards](https://img.shields.io/badge/Finance-HR%20Panel%20%26%20Budget%20Dashboards-yellow)
+
+---
+
+### 🛡️ Tool Badges
+
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)
 
 ---
 
@@ -77,19 +112,15 @@ Silent, background skill tracking and real-world coding simulation platform:
 
 ---
 
+### 📸 Screenshots & Demos
+
 ![HERARI Dashboard](docs/herari_dashboard.png)
 
 ---
 
 ### 📫 Contact & Connect
 
-* GitHub: [ZakiOmer22](https://github.com/ZakiOmer22)
-* LinkedIn: *https://www.linkedin.com/in/zakoomar*
+- GitHub: [ZakiOmer22](https://github.com/ZakiOmer22)  
+- LinkedIn: [linkedin.com/in/zakoomar](https://www.linkedin.com/in/zakoomar)
 
 ---
-
-### 🛡️ Shields / Badges
-- Tech Stack: ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-- "Currently Building": ![HERARI System](https://img.shields.io/badge/HERARI--Enterprise-Clinic%20System-blue)
-- Tools & APIs & More: ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
