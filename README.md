@@ -1,3 +1,6 @@
+<!-- PROFILE README: Auto-loaded, don't browse this repo -->
+
+
 <h1 align="center">👋 Hi, I'm Zaki Omer</h1>
 <p align="center">
 🚀 Full-Stack Developer | 🧠 IT Instructor | 🛡️ Future Cybersecurity Analyst  
